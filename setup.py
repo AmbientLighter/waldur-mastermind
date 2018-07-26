@@ -20,7 +20,6 @@ install_requires = [
     'cryptography',
     'defusedxml>=0.4.1',
     'django-admin-tools==0.8.0',
-    'django-auth-ldap>=1.3.0',
     'django-defender>=0.5.3',
     'django-filter==1.0.2',
     'django-fluent-dashboard==0.6.1',
